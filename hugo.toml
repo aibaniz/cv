@@ -1,11 +1,13 @@
-baseurl = "https://example.com"
+baseurl = "https://aibaniz.github.io/cv/"
 theme = "paige"
 enablerobotstxt = true
-timezone = "America/Los_Angeles"
+timezone = "Europe/Berlin"
 titlecasestyle = "Go"
+relativeURLs = true
+canonifyURLs = false
 
 [languages.en]
-copyright = ""
+copyright = "© Aibaniz Alieva"
 languagecode = "en-us"
 languagedirection = "ltr"
 languagename = "English"
@@ -21,7 +23,6 @@ unsafe = true
 [markup.highlight]
 noclasses = false
 style = "github"
-
 
 [outputs]
 home = ["atom", "html", "paige-search", "rss"]
@@ -77,11 +78,6 @@ category = "categories"
 series = "series"
 tag = "tags"
 
-[menu]
-  [[menu.main]]
-  name = ""
-  url = ""
-
 [caches]
   [caches.images]
-    dir = ':cacheDir/images'
+  dir = ':cacheDir/images'

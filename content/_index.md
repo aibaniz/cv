@@ -30,7 +30,7 @@ draft: false
   <!-- Button-style links (optional) -->
   <!--
   <div style="display:inline-flex; gap:1rem; margin-bottom: 2rem;">
-    <a href="/research/" style="
+    <a href="research" style="
       background:white;
       color:#889170;
       padding:0.75rem 1.5rem;
@@ -38,7 +38,7 @@ draft: false
       font-weight:600;
       text-decoration:none;
     ">📖 Research</a>
-    <a href="/design/" style="
+    <a href="design" style="
       background:white;
       color:#889170;
       padding:0.75rem 1.5rem;
@@ -74,7 +74,7 @@ draft: false
       🏠 Home
     </div>
   </a>
-  <a href="/research/" style="text-decoration: none;">
+  <a href="research" style="text-decoration: none;">
     <div style="
       background: white;
       color: #4a4a4a;
@@ -91,7 +91,7 @@ draft: false
       🔬 Research
     </div>
   </a>
-  <a href="/papers/" style="text-decoration: none;">
+  <a href="papers" style="text-decoration: none;">
     <div style="
       background: white;
       color: #4a4a4a;
@@ -108,7 +108,7 @@ draft: false
       📝 Papers
     </div>
   </a>
-  <a href="/design/" style="text-decoration: none;">
+  <a href="design" style="text-decoration: none;">
     <div style="
       background: white;
       color: #4a4a4a;
