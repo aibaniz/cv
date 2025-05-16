@@ -72,6 +72,9 @@ disable_series = true
 disable_summary = true
 disable_word_count = true
 
+[params.paige.assets]
+custom_css = ["css/custom.css"]
+
 [taxonomies]
 author = "authors"
 category = "categories"
@@ -81,7 +84,4 @@ tag = "tags"
 [caches]
   [caches.images]
   dir = ':cacheDir/images'
-
-[params.paige.assets]
-custom_css = ["css/custom.css"]
 
