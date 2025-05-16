@@ -82,3 +82,6 @@ tag = "tags"
   [caches.images]
   dir = ':cacheDir/images'
 
+[params.paige.assets]
+custom_css = ["css/custom.css"]
+
