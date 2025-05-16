@@ -105,7 +105,7 @@ draft: false
   margin-bottom: 2rem;
 ">
   <p style="margin: 0;">
-    © 2025 — All rights reserved by Aybaniz Alieva
+    © 2025 — All rights reserved by Aibaniz Alieva
   </p>
   <p style="margin: 0.50rem 0 0;">
     Built with <a href="https://gohugo.io" style="color: #555; text-decoration: underline;">Hugo</a> and the 

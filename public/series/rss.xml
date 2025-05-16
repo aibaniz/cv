@@ -47,25 +47,25 @@
         
 
         
-            <link>https://example.com/series/</link>
+            <link>http://localhost:1313/series/</link>
         
 
         
-            <atom:link href="https://example.com/series/rss.xml" hreflang="en-us" rel="self" type="application/rss+xml"/>
+            <atom:link href="http://localhost:1313/series/rss.xml" hreflang="en-us" rel="self" type="application/rss+xml"/>
         
 
         
             
 
-            <atom:link href="https://example.com/series/atom.xml" hreflang="en-us" rel="alternate" type="application/atom+xml"/>
+            <atom:link href="http://localhost:1313/series/atom.xml" hreflang="en-us" rel="alternate" type="application/atom+xml"/>
         
             
 
-            <atom:link href="https://example.com/series/" hreflang="en-us" rel="alternate" type="text/html"/>
+            <atom:link href="http://localhost:1313/series/" hreflang="en-us" rel="alternate" type="text/html"/>
         
             
 
-            <atom:link href="https://example.com/series/rss.xml" hreflang="en-us" rel="alternate" type="application/rss+xml"/>
+            <atom:link href="http://localhost:1313/series/rss.xml" hreflang="en-us" rel="alternate" type="application/rss+xml"/>
         
 
         
