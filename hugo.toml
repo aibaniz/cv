@@ -1,0 +1,83 @@
+baseurl = "https://example.com"
+theme = "paige"
+enablerobotstxt = true
+timezone = "America/Los_Angeles"
+titlecasestyle = "Go"
+
+[languages.en]
+copyright = ""
+languagecode = "en-us"
+languagedirection = "ltr"
+languagename = "English"
+title = ""
+weight = 10
+
+[languages.en.params.paige.site]
+description = ""
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+noclasses = false
+style = "github"
+
+
+[outputs]
+home = ["atom", "html", "paige-search", "rss"]
+section = ["atom", "html", "rss"]
+taxonomy = ["atom", "html", "rss"]
+term = ["atom", "html", "rss"]
+
+[pagination]
+pagersize = 50
+
+[[params.paige.feeds.atom.authors]]
+email = "example@example.com"
+name = "John Doe"
+url = "https://example.com"
+
+[params.paige.feeds.rss]
+managing_editor = "example@example.com (John Doe)"
+web_master = "example@example.com (John Doe)"
+
+[params.paige.pages]
+disable_authors = true
+disable_date = true
+disable_keywords = true
+disable_next = true
+disable_prev = true
+disable_reading_time = true
+disable_series = true
+disable_toc = true
+disable_word_count = true
+
+[paige.pages.base_schema]
+isAccessibleForFree = true
+isFamilyFriendly = true
+
+[params.paige.site]
+color = "#889170"
+color_scheme = "light"
+disable_breadcrumbs = true
+disable_credit = true
+
+[params.paige.subpages]
+disable_authors = true
+disable_date = true
+disable_keywords = true
+disable_reading_time = true
+disable_series = true
+disable_summary = true
+disable_word_count = true
+
+[taxonomies]
+author = "authors"
+category = "categories"
+series = "series"
+tag = "tags"
+
+[menu]
+  [[menu.main]]
+  name = ""
+  url = ""
