@@ -33,20 +33,17 @@ draft: false
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
     gap: 1rem;
-    max-width: 720px;
+    max-width: 600px;
     margin: 2rem auto 0;
   ">
-    <a href="/" style="text-decoration: none;">
-      <div class="card-box">🏠 Home</div>
-    </a>
     <a href="research" style="text-decoration: none;">
-      <div class="card-box">🔬 Research</div>
+    <div class="card-box" style="min-height: 60px; padding: 0.5rem;">🔬 Research</div>
     </a>
     <a href="papers" style="text-decoration: none;">
-      <div class="card-box">📝 Papers</div>
+    <div class="card-box" style="min-height: 60px; padding: 0.5rem;">📝 Papers</div>
     </a>
     <a href="design" style="text-decoration: none;">
-      <div class="card-box">🎨 Design</div>
+    <div class="card-box" style="min-height: 60px; padding: 0.5rem;">🎨 Design</div>
     </a>
   </div>
 </div>
