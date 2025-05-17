@@ -5,23 +5,20 @@ draft: false
 
 <!-- Research Focus Hero -->
 <div style="
+  background-color: #889170;
+  color: white;
+  padding: 2rem 1.5rem;
+  border-radius: 12px;
+  text-align: center;
   max-width: 900px;
-  margin: 0 auto 2rem;
+  margin: 2rem auto;
 ">
-  <div style="
-    background-color: #889170;
-    color: white;
-    padding: 2rem 1.5rem;
-    border-radius: 12px;
-    text-align: center;
-  ">
-    <h2 style="margin-top: 0;">🔬 Research Focus</h2>
-    <p style="font-size: 1rem; line-height: 1.6;">
-      My research lies at the intersection of <strong>Arabic literature</strong>, <strong>grief and memory</strong>, and <strong>digital humanities</strong>.<br><br>
-      I work with classical and modern texts, exploring how literary forms express identity, loss, and resistance — and how digital tools can uncover patterns often overlooked in close reading. <br><br>
-      I’m also deeply interested in <strong>Arabic epigraphy</strong> — particularly how inscriptions interact with architecture, shaping meaning through spatial placement, visibility, and context.
-    </p>
-  </div>
+  <h2 style="margin-top: 0;">🔬 Research Focus</h2>
+  <p style="font-size: 1rem; line-height: 1.6;">
+    My research lies at the intersection of <strong>Arabic literature</strong>, <strong>grief and memory</strong>, and <strong>digital humanities</strong>.<br><br>
+    I work with classical and modern texts, exploring how literary forms express identity, loss, and resistance — and how digital tools can uncover patterns often overlooked in close reading. <br><br>
+    I’m also deeply interested in <strong>Arabic epigraphy</strong> — particularly how inscriptions interact with architecture, shaping meaning through spatial placement, visibility, and context.
+  </p>
 </div>
 
 <!-- Current Projects Box -->

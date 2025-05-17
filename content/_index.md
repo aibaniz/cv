@@ -6,11 +6,12 @@ draft: false
 <!-- Hero Section with Cards -->
 <div style="
   background-color: #889170;
-  color: white;
-  padding: 3rem 1.5rem;
+  padding: 2rem 1.5rem;
   border-radius: 12px;
+  color: white;
   text-align: center;
-  margin-bottom: 2rem;
+  max-width: 800px;
+  margin: 2rem auto;
 ">
   <div style="
     width: 230px;

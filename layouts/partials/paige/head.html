@@ -1,1 +1,18 @@
 <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
+<!-- No external JS needed -->
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const navItems = document.querySelectorAll('#paige-site-menu li.nav-item');
+      navItems.forEach(function (li) {
+        const link = li.querySelector('a');
+        if (
+          link &&
+          link.getAttribute('href') === "#" &&
+          link.textContent.trim() === ""
+        ) {
+          li.remove();
+        }
+      });
+    });
+  </script>
+  

@@ -7,7 +7,7 @@ relativeURLs = false
 canonifyURLs = true
 
 [languages.en]
-copyright = "© Aibaniz Alieva"
+copyright = ""
 languagecode = "en-us"
 languagedirection = "ltr"
 languagename = "English"
