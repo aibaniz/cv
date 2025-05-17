@@ -3,7 +3,7 @@ theme = "paige"
 enablerobotstxt = true
 timezone = "Europe/Berlin"
 titlecasestyle = "Go"
-relativeURLs = true
+relativeURLs = false
 canonifyURLs = true
 
 [languages.en]
