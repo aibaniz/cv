@@ -106,7 +106,7 @@ draft: false
   <h3 style="margin-top: 1.5rem; margin-bottom: 0.25rem;">📁 Current Projects</h3>
   <p style="margin-top: 0;">
     Closing the Gap in Non-Latin Script Data (Junior Researcher)<br>
-    <a href="https://example.com/calligraphy-across-the-caliphates" target="_blank" style="text-decoration: none; color: inherit;">
+    <a href="https://aibaniz.github.io/calligraphy-across-caliphates/" target="_blank" style="text-decoration: none; color: inherit;">
     Calligraphy Across the Caliphates
   </a>
   </p>
