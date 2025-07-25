@@ -56,8 +56,19 @@ draft: false
         Alternative logotype for the Closing the Gap project.
       </p>
     </div>
+    <div>
+      <img
+        src="/images/logotype3.png"
+        alt="Logo for Calligraphy Across the Caliphates"
+        style="height: 200px; width: auto; border-radius: 12px;"
+      />
+      <p style="margin-top: 0.5rem; font-style: italic;">
+        Logo for <em>Calligraphy Across the Caliphates</em> digital project.
+      </p>
+    </div>
   </div>
 </div>
+
 
 <!-- Calligraphy Section -->
 <div style="

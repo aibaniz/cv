@@ -67,7 +67,7 @@ draft: false
 
 <!-- Short CV Section -->
 <div style="
-  background-color: #d5c0a1;
+  background-color: #c2a279;
   color: white;
   padding: 2rem 1.5rem;
   border-radius: 12px;
@@ -76,7 +76,17 @@ draft: false
 ">
   <h2 style="text-align: center; margin-top: 0;">📄 CV</h2>
 
-  <h3 style="margin-bottom: 0.25rem;">🎓 Education</h3>
+  <h3 style="margin-bottom: 0.25rem;">📁 Current Projects</h3>
+  <p style="margin-top: 0;">
+    <a href="https://m-l-d-h.github.io/Closing-The-Gap-In-Non-Latin-Script-Data/#" target="_blank" style="text-decoration: none; color: inherit;">
+      Closing the Gap in Non-Latin Script Data (Junior Researcher)
+    </a><br>
+    <a href="https://aibaniz.github.io/calligraphy-across-caliphates/" target="_blank" style="text-decoration: none; color: inherit;">
+      Calligraphy Across the Caliphates
+    </a>
+  </p>
+
+  <h3 style="margin-top: 1.5rem; margin-bottom: 0.25rem;">🎓 Education</h3>
   <p style="margin-top: 0;">
     <strong>M.A. Arabic Studies</strong><br>
     Freie Universität Berlin · <em>2023–ongoing</em> · <em>Expected 2025</em><br><br>
@@ -101,15 +111,6 @@ draft: false
     Russian (native) · Azerbaijani (native)<br>
     English (C1) · German (C1)<br>
     Arabic (B2) · Turkish (A2)
-  </p>
-
-  <h3 style="margin-top: 1.5rem; margin-bottom: 0.25rem;">📁 Current Projects</h3>
-  <p style="margin-top: 0;">
-  <a href="https://m-l-d-h.github.io/Closing-The-Gap-In-Non-Latin-Script-Data/#" target="_blank" style="text-decoration: none; color: inherit;">
-    Closing the Gap in Non-Latin Script Data (Junior Researcher)<br>
-    <a href="https://aibaniz.github.io/calligraphy-across-caliphates/" target="_blank" style="text-decoration: none; color: inherit;">
-    Calligraphy Across the Caliphates
-  </a>
   </p>
 </div>
 <!-- Contact Section -->
