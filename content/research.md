@@ -34,20 +34,21 @@ draft: false
 
   <h3 style="margin-bottom: 0.5rem;">✒️ <em>Calligraphy Across the Caliphates</em></h3>
   <p style="margin-top: 0;">
-    <em>DH project · Freie Universität Berlin (2025)</em><br>
-    – Explores the development of Islamic calligraphy from the 7th to 19th centuries<br>
-    – Showcases high-resolution images from open-access museum collections<br>
-    – Describes each script’s origin, function, and visual characteristics<br>
-    – Includes an interactive, image-based timeline<br>
-    → Highlights the cultural significance of calligraphy across Abbasid, Mamluk, Ottoman, and Safavid contexts
+    <em>Project Lead · Freie Universität Berlin (2025–ongoing)</em><br>
+    – Research on Islamic calligraphy across regions and periods (Arabic, Persian, Ottoman)<br>
+    – Visual identity design and stylistic consistency across web assets<br>
+    – Frontend development using Hugo, Leaflet.js, and custom HTML/CSS<br>
+    – Timeline of script evolution and contextual essays<br>
+    – Open-access integration: The Met, Library of Congress, and other digital collections
   </p>
 
   <h3 style="margin-top: 2rem; margin-bottom: 0.5rem;">🏛 <em>Closing the Gap in Non-Latin Script Data</em></h3>
   <p style="margin-top: 0;">
     <em>Junior Researcher · Freie Universität Berlin (2024–ongoing)</em><br>
-    – Data management<br>
-    – Contribution to tool development for multilingual metadata workflows<br>
-    – Research on digital project sustainability
+    – Data management and structuring of multilingual metadata<br>
+    – Design and frontend development of the project interface<br>
+    – Contribution to tool development for handling non-Latin script workflows<br>
+    – Research on long-term sustainability in digital humanities projects
   </p>
 </div>
 

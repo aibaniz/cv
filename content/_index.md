@@ -76,15 +76,15 @@ draft: false
 ">
   <h2 style="text-align: center; margin-top: 0;">📄 CV</h2>
 
-  <h3 style="margin-bottom: 0.25rem;">📁 Current Projects</h3>
-  <p style="margin-top: 0;">
-    <a href="https://m-l-d-h.github.io/Closing-The-Gap-In-Non-Latin-Script-Data/#" target="_blank" style="text-decoration: underline; color: inherit;">
-      Closing the Gap in Non-Latin Script Data (Junior Researcher)
-    </a><br>
-    <a href="https://aibaniz.github.io/calligraphy-across-caliphates/" target="_blank" style="text-decoration: underline; color: inherit;">
-      Calligraphy Across the Caliphates
-    </a>
-  </p>
+<h3 style="margin-bottom: 0.25rem;">📁 Current Projects</h3>
+<p style="margin-top: 0;">
+  <a href="https://aibaniz.github.io/calligraphy-across-caliphates/" target="_blank" style="text-decoration: underline; color: inherit;">
+    Calligraphy Across the Caliphates
+  </a> (Project Lead) · <em>2025 – ongoing</em><br>
+  <a href="https://m-l-d-h.github.io/Closing-The-Gap-In-Non-Latin-Script-Data/#" target="_blank" style="text-decoration: underline; color: inherit;">
+    Closing the Gap in Non-Latin Script Data
+  </a> (Junior Researcher) · <em>2024 – ongoing</em>
+</p>
 
   <h3 style="margin-top: 1.5rem; margin-bottom: 0.25rem;">🎓 Education</h3>
   <p style="margin-top: 0;">
